@@ -1,0 +1,20 @@
+# Mac files
+.DS_Store
+__MACOSX
+
+# IDE and editors
+.idea
+.vscode
+
+# Logs
+/Logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+/node_modules
+
+# Lock files
+package-lock.json
+/package-lock.json
+/yarn.lock
